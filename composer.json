@@ -1,0 +1,13 @@
+{
+    "name": "root/s3-php-secure",
+    "authors": [
+        {
+            "name": "Facundo Alarcón",
+            "email": "falarcon@zconsulting.com.ar"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.135",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
